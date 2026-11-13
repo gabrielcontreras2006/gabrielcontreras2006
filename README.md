@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey I am Gabriel Contreras, a first year at the University of Oregon. I am currently studying Computer Science and Data Science. I am an aspiring software engineer looking for an internship.
+Hey I am Gabriel Contreras, a third year at the University of California, Irvine. I am currently studying Computer Science. I am an aspiring software engineer looking for an internship.
 I like to watch football and basketball on the weekends, and like to play basketball during my free time.
